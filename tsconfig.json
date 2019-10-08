@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "outDir": "./dist",
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "./test/**/*"
+  ]
+}
